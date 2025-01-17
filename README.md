@@ -1,0 +1,18 @@
+## Travel Booking Application 
+ - Mobile Application built for iPhone 14 pro max
+ - Features include:
+   - Account creation
+   - Login w/ Facebook
+   - Rewards: Exchanging points accumulated for gift cards
+   - Timezone selector
+   - Trip booking that displays local attractions
+   - Secure Payment
+   - Profile badges
+   - Stat tracking: reviews, air miles, hotel stays, etc.
+   - Image like feature to share w/ mutuals
+   - App feedback
+   - dark mode
+   - offline access
+   - 2FA
+   - Enable notifications
+ - The concept shows what this application would look like upon release
